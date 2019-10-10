@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-//        Method overloading when you use the same method name with diff params
+//        Method overloading:  when you use the same method name with diff params
 //        Changing the data type of a method is not enough. it's actually the number of params and their data type that matters.'
 
         int newScore = calcScore("John", 2500);
